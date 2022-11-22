@@ -1,0 +1,9 @@
+
+.show{
+    display: none !important;
+}
+
+#barmodal.hide {
+    display: none;
+}
+
